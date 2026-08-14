@@ -75,8 +75,8 @@ Currently aiming for an internship in tech, ideally cybersecurity-focused, and e
 
 | Certificate | Issuer |
 |---|---|
-| [Introduction to UML]([https://www.coursera.org/learn/uml](https://coursera.org/share/32d47b1ebd84ccf5002baef6cb2ca0c2) | Universidad de los Andes | 89.62% |
-| [Programming in Python]([https://www.coursera.org/learn/programming-in-python](https://coursera.org/share/0bbecb33e99e376896f3ab330ebf61bd) | Meta | 97.52% |
+| [Introduction to UML](https://coursera.org/share/32d47b1ebd84ccf5002baef6cb2ca0c2) | Universidad de los Andes | 89.62% |
+| [Programming in Python](https://coursera.org/share/0bbecb33e99e376896f3ab330ebf61bd) | Meta | 97.52% |
 
 ---
 
